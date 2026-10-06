@@ -16,4 +16,6 @@ Open the terminal and run:
 
 ```bash
 chmod +x server-stats.sh
-./server-stats.sh
+./server-stats.
+
+Project URL: https://roadmap.sh/projects/server-stats
